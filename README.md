@@ -29,22 +29,5 @@ Este projeto foi desenvolvido com carinho para demonstrar afeto através de uma 
 └── img/
 ```
 
-## ▶️ Como visualizar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-```
-
-2. Abra o arquivo **index.html** em qualquer navegador.
-
-Ou acesse a versão publicada pelo GitHub Pages.
-
-## ❤️ Autor
-
-Desenvolvido por **Manoel Filho**.
-
----
 
 > "Algumas pessoas tornam o mundo mais bonito apenas por existirem." ❤️
